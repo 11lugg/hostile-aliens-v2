@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hostile-aliens-v2/static/css/main.7100ed84.chunk.css",
+    "main.js": "/hostile-aliens-v2/static/js/main.50dcefc2.chunk.js",
+    "main.js.map": "/hostile-aliens-v2/static/js/main.50dcefc2.chunk.js.map",
+    "runtime~main.js": "/hostile-aliens-v2/static/js/runtime~main.ab1eab07.js",
+    "runtime~main.js.map": "/hostile-aliens-v2/static/js/runtime~main.ab1eab07.js.map",
+    "static/js/2.26662717.chunk.js": "/hostile-aliens-v2/static/js/2.26662717.chunk.js",
+    "static/js/2.26662717.chunk.js.map": "/hostile-aliens-v2/static/js/2.26662717.chunk.js.map",
+    "index.html": "/hostile-aliens-v2/index.html",
+    "precache-manifest.03e62d44537de5ce4e7a80ca2e3bcd65.js": "/hostile-aliens-v2/precache-manifest.03e62d44537de5ce4e7a80ca2e3bcd65.js",
+    "service-worker.js": "/hostile-aliens-v2/service-worker.js",
+    "static/css/main.7100ed84.chunk.css.map": "/hostile-aliens-v2/static/css/main.7100ed84.chunk.css.map"
+  }
+}
