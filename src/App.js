@@ -45,6 +45,7 @@ class App extends Component {
         attackShips: "Dead",
         attackValue: "Dead"
       });
+      alert("Player 1 wins!");
     }
   };
 
