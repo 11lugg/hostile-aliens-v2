@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hostile-aliens-v2/precache-manifest.03e62d44537de5ce4e7a80ca2e3bcd65.js"
+  "/hostile-aliens-v2/precache-manifest.965740b0ccd481c52cd518479488f119.js"
 );
 
 self.addEventListener('message', (event) => {
