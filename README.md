@@ -4,9 +4,7 @@ Web address: https://11lugg.github.io/hostile-aliens-v2/
 
 This is the second time I have completed this project. The first time, I completed it using JS, HTML and CSS. It was an opportunity to learn OOP before I began to learn React. 
 
-This second iteration was created using React JS. I wanted to practice passing props to components and render the results on the page.
-
-Focus was put on functionality over the look.
+This second iteration was created using React JS. I made use of props, abstracted components and classes. It is a simple game with focus put on functionality over style.
 
 # Dream
 
